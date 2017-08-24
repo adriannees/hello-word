@@ -1,1 +1,2 @@
 # hello-word
+I've been making websites on WordPress since 2008 but I've never really mastered GitHub. My goal for the next 3 months is to master GitHub so that I have a more professional looking codebase for others to review. 
